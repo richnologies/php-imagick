@@ -11,7 +11,7 @@ This is a WIP, since the library is so massive - I'm looking at a way to parse t
 With composer:
 
 ```
-composer require calcinai/php-imagick
+composer require richnologies/php-imagick
 ```
 
 

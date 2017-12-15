@@ -1,5 +1,5 @@
 {
-    "name": "calcinai/php-imagick",
+    "name": "richnologies/php-imagick",
     "description": "PHP wrapper for command line ImageMagick utils compatible with PECL::Imagick",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Michael Calcinai",
             "email": "michael@calcin.ai"
+        },
+        {
+            "name": "Ricardo Sánchez",
+            "email": "me@richnologies.io"
         }
     ],
     "suggest": {
